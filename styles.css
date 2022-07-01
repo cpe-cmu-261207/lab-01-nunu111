@@ -12,6 +12,12 @@ body {
   text-decoration: none;
 }
 
+.cmd_p {
+  width: 1000px;
+  height: 500px;
+  object-fit: scale-down;
+}
+
 .nav-bar a:visited {
   color: rgb(0, 0, 0);
   text-decoration: none;
